@@ -29,7 +29,7 @@ st.markdown(
     <style>
     .stApp {
         background: linear-gradient(to right, #1E3A8A, #40E0D0);
-        color: white;
+        color: black;
         font-family: Arial, sans-serif;
     }
     
