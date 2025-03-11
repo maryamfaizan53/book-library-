@@ -34,7 +34,7 @@ st.markdown(
     }
     
     .css-1d391kg { /* Sidebar background */
-        background: linear-gradient(to bottom, #0284C7, #06B6D4);
+        background: black;
         color: white;
     }
     
